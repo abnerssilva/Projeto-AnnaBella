@@ -1,0 +1,2 @@
+# Projeto-AnnaBella-Udemy-Web
+ O Projeto Anna Bella (Modelo Fotográfica Fictícia) foi criado para iniciar a prática dos conceitos do CSS3, e das boas práticas de documentação de código. As estruturas utilizadas foram HTML5 (um pouco mais avançado do que no projeto UNES) e CSS3 simples, aplicando somente os conceitos de formatação usando Seletores, Classes e IDs em arquivo externo, "limpando" assim, o visual do código principal.
